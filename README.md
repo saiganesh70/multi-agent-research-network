@@ -1,3 +1,10 @@
+
+
+https://github.com/user-attachments/assets/511e17d6-6df7-4b66-8330-36520726fe9a
+
+
+
+
 website url: https://multi-agent-research-network.onrender.com/docs
 # Multi-Agent Research Network
 ### CrewAI Market Research Automation Pipeline
