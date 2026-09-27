@@ -18,7 +18,6 @@ def get_llm() -> LLM:
         temperature=0.3,
     )
 
-
 def build_researcher_agent() -> Agent:
     return Agent(
         role="Market Researcher",
